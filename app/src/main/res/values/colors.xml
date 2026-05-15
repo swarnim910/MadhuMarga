@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="honey_amber">#FFFF8F00</color>
+    <color name="honey_gold">#FFFFC107</color>
+    <color name="honey_light">#FFFFECB3</color>
+    <color name="honey_cream">#FFFFF8E1</color>
+    <color name="comb_brown">#FF5D4037</color>
+    <color name="bee_black">#FF212121</color>
+    <color name="flora_green">#FF2E7D32</color>
+    <color name="alert_red">#FFD32F2F</color>
+</resources>

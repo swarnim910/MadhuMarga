@@ -1,0 +1,58 @@
+com.madhumarga.app-foundation-release-0 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\01df8b98d2926c00628284f62023c580\transformed\foundation-release\res
+com.madhumarga.app-navigation-runtime-ktx-2.7.5-1 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\062b341f00e9a5500aafe4267d2d23bd\transformed\navigation-runtime-ktx-2.7.5\res
+com.madhumarga.app-ui-util-release-2 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\0ed356a95786d44fa48fb85119beca03\transformed\ui-util-release\res
+com.madhumarga.app-animation-release-3 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\114cefb01240552b828219f51b1dbed5\transformed\animation-release\res
+com.madhumarga.app-navigation-compose-2.7.5-4 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\17f7dec4ec46fd10c2c0270a387a2f75\transformed\navigation-compose-2.7.5\res
+com.madhumarga.app-material3-1.1.2-5 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\28eed76843185e5954ff9b0a2d56db57\transformed\material3-1.1.2\res
+com.madhumarga.app-material-icons-core-release-6 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\2f59a9477906ee877028e45137c9216a\transformed\material-icons-core-release\res
+com.madhumarga.app-core-1.12.0-7 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\32fbfa1eb0e6935cef656adbc4a086bc\transformed\core-1.12.0\res
+com.madhumarga.app-sqlite-framework-2.4.0-8 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\332c3a9cb15f3e71cfd5cbcc88e55f50\transformed\sqlite-framework-2.4.0\res
+com.madhumarga.app-material-ripple-release-9 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\362a227b3618434bf08c1a22d045a0d0\transformed\material-ripple-release\res
+com.madhumarga.app-animation-core-release-10 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\3e9afbcc129263c8454773ece713ebc9\transformed\animation-core-release\res
+com.madhumarga.app-navigation-common-ktx-2.7.5-11 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\46d58badef23f29b82a81bd31b5e9e76\transformed\navigation-common-ktx-2.7.5\res
+com.madhumarga.app-runtime-release-12 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\4c5507476e19ec72df45c00b152b1c36\transformed\runtime-release\res
+com.madhumarga.app-navigation-common-2.7.5-13 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\5094737fb1d718c98370f7c012ebd9c9\transformed\navigation-common-2.7.5\res
+com.madhumarga.app-core-ktx-1.12.0-14 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\5103a3519f41ddae1e9d819f7a509562\transformed\core-ktx-1.12.0\res
+com.madhumarga.app-foundation-layout-release-15 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\59c8658f14cd983e32a5cd4d6f6f39a9\transformed\foundation-layout-release\res
+com.madhumarga.app-ui-geometry-release-16 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\68bb301bd8e2fd3fa8355fbc0f001e14\transformed\ui-geometry-release\res
+com.madhumarga.app-activity-ktx-1.8.1-17 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\6bdfe2ba06dadb2d8b20b0574e9d04da\transformed\activity-ktx-1.8.1\res
+com.madhumarga.app-lifecycle-livedata-core-2.6.2-18 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\6bfae0be1331a306b1902d4b1e30af90\transformed\lifecycle-livedata-core-2.6.2\res
+com.madhumarga.app-ui-tooling-data-release-19 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\7082ab12bdf6395ddd508e67b8ee9ae0\transformed\ui-tooling-data-release\res
+com.madhumarga.app-ui-test-manifest-1.5.4-20 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\721e580b87521539cf5fe8e206633246\transformed\ui-test-manifest-1.5.4\res
+com.madhumarga.app-lifecycle-process-2.6.2-21 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\78873108ed9f7a79f7ea9cf0ab43c13e\transformed\lifecycle-process-2.6.2\res
+com.madhumarga.app-lifecycle-viewmodel-savedstate-2.6.2-22 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\78bd5d4b4da3426ccc267f271860e2d4\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.madhumarga.app-ui-unit-release-23 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\7b42da5cddc13cce8cfc6d8c1b67f923\transformed\ui-unit-release\res
+com.madhumarga.app-ui-text-release-24 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\7c1ba1725cd82b35e4e9a9a60e389b21\transformed\ui-text-release\res
+com.madhumarga.app-lifecycle-viewmodel-2.6.2-25 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\821eb62343f2a26e41eb84e1f621cc27\transformed\lifecycle-viewmodel-2.6.2\res
+com.madhumarga.app-emoji2-1.4.0-26 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\83ce49d06b1cf1702e413d75b1e5523a\transformed\emoji2-1.4.0\res
+com.madhumarga.app-startup-runtime-1.1.1-27 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\857d75289d143ded7af11fb03745e3c2\transformed\startup-runtime-1.1.1\res
+com.madhumarga.app-lifecycle-runtime-ktx-2.6.2-28 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\886d5bac1c7e8ad4488b408b15d3bca7\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.madhumarga.app-ui-tooling-preview-release-29 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\8b300ce275dedd77ccea9b5afc7db6ca\transformed\ui-tooling-preview-release\res
+com.madhumarga.app-room-runtime-2.6.1-30 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\8d27561c6fdc45d04e2166fe85f222ae\transformed\room-runtime-2.6.1\res
+com.madhumarga.app-ui-release-31 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\8ecf8f43e46a27964a14603fdabbfc47\transformed\ui-release\res
+com.madhumarga.app-savedstate-ktx-1.2.1-32 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\995367c89e57199578c4009314d072fb\transformed\savedstate-ktx-1.2.1\res
+com.madhumarga.app-lifecycle-viewmodel-compose-2.6.2-33 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\a00432ffea99db30eebfadde63362fd3\transformed\lifecycle-viewmodel-compose-2.6.2\res
+com.madhumarga.app-savedstate-1.2.1-34 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\a0c86ad4509fce9bf68b9cf4c341e8e6\transformed\savedstate-1.2.1\res
+com.madhumarga.app-activity-compose-1.8.1-35 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\a621eb4c39aa4043f44e0931ddcfcd4b\transformed\activity-compose-1.8.1\res
+com.madhumarga.app-customview-poolingcontainer-1.0.0-36 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\aa9dbbbffa9ce411a853cc994bc48256\transformed\customview-poolingcontainer-1.0.0\res
+com.madhumarga.app-material-release-37 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\b23c41bd0356754ce3342b7fb8e5c258\transformed\material-release\res
+com.madhumarga.app-sqlite-2.4.0-38 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\b2c263d297815c62deefbd1e5efcc374\transformed\sqlite-2.4.0\res
+com.madhumarga.app-activity-1.8.1-39 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\b841646d6ea72ba34974868cb32e95af\transformed\activity-1.8.1\res
+com.madhumarga.app-room-ktx-2.6.1-40 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\c2855e1e65624c445536215bdc018ee7\transformed\room-ktx-2.6.1\res
+com.madhumarga.app-material-icons-extended-release-41 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\c74f463f75b5c1dbb90448923a6217b8\transformed\material-icons-extended-release\res
+com.madhumarga.app-annotation-experimental-1.3.0-42 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\d7289b76e77b817c24ee32f88bb89254\transformed\annotation-experimental-1.3.0\res
+com.madhumarga.app-core-runtime-2.2.0-43 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\dd6487def051c6e07f0125fff60901d1\transformed\core-runtime-2.2.0\res
+com.madhumarga.app-ui-tooling-release-44 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e1d6cbccf8d2fda2e4a8ce32915ed934\transformed\ui-tooling-release\res
+com.madhumarga.app-runtime-saveable-release-45 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e2b853193ddc28dde0be3b57941751ea\transformed\runtime-saveable-release\res
+com.madhumarga.app-lifecycle-runtime-compose-2.6.2-46 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e602626341c498e7517886d252ccaefb\transformed\lifecycle-runtime-compose-2.6.2\res
+com.madhumarga.app-profileinstaller-1.3.0-47 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\res
+com.madhumarga.app-ui-graphics-release-48 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\eafa28917058b4ab417220005c8812bb\transformed\ui-graphics-release\res
+com.madhumarga.app-lifecycle-runtime-2.6.2-49 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\f7a521953122cf39c2d0e077a0f833cb\transformed\lifecycle-runtime-2.6.2\res
+com.madhumarga.app-navigation-runtime-2.7.5-50 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\fa37f950ba2bcdceee8e18a47e247e14\transformed\navigation-runtime-2.7.5\res
+com.madhumarga.app-lifecycle-viewmodel-ktx-2.6.2-51 C:\Users\SWARNIM\.gradle\caches\8.13\transforms\fae6d3316576a9c40ee912eb530b0b4b\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.madhumarga.app-resValues-52 C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\build\generated\res\resValues\debug
+com.madhumarga.app-packageDebugResources-53 C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.madhumarga.app-packageDebugResources-54 C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.madhumarga.app-debug-55 C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.madhumarga.app-debug-56 C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\debug\res
+com.madhumarga.app-main-57 C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\res

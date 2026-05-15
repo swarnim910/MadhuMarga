@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+color alert_red
+color bee_black
+color comb_brown
+color flora_green
+color honey_amber
+color honey_cream
+color honey_gold
+color honey_light
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.MadhuMarga

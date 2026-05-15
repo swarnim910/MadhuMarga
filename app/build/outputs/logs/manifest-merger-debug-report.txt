@@ -1,0 +1,363 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.navigation:navigation-common:2.7.5] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\5094737fb1d718c98370f7c012ebd9c9\transformed\navigation-common-2.7.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.5] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\fa37f950ba2bcdceee8e18a47e247e14\transformed\navigation-runtime-2.7.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.5] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\46d58badef23f29b82a81bd31b5e9e76\transformed\navigation-common-ktx-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.5] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\062b341f00e9a5500aafe4267d2d23bd\transformed\navigation-runtime-ktx-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.7.5] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\17f7dec4ec46fd10c2c0270a387a2f75\transformed\navigation-compose-2.7.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3:1.1.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\28eed76843185e5954ff9b0a2d56db57\transformed\material3-1.1.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\b841646d6ea72ba34974868cb32e95af\transformed\activity-1.8.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\6bdfe2ba06dadb2d8b20b0574e9d04da\transformed\activity-ktx-1.8.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\362a227b3618434bf08c1a22d045a0d0\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\2f59a9477906ee877028e45137c9216a\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\c74f463f75b5c1dbb90448923a6217b8\transformed\material-icons-extended-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\b23c41bd0356754ce3342b7fb8e5c258\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\3e9afbcc129263c8454773ece713ebc9\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\114cefb01240552b828219f51b1dbed5\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\59c8658f14cd983e32a5cd4d6f6f39a9\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\01df8b98d2926c00628284f62023c580\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\7082ab12bdf6395ddd508e67b8ee9ae0\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\7b42da5cddc13cce8cfc6d8c1b67f923\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\68bb301bd8e2fd3fa8355fbc0f001e14\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\0ed356a95786d44fa48fb85119beca03\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\7c1ba1725cd82b35e4e9a9a60e389b21\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\8b300ce275dedd77ccea9b5afc7db6ca\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\eafa28917058b4ab417220005c8812bb\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\721e580b87521539cf5fe8e206633246\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e1d6cbccf8d2fda2e4a8ce32915ed934\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity-compose:1.8.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\a621eb4c39aa4043f44e0931ddcfcd4b\transformed\activity-compose-1.8.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\83ce49d06b1cf1702e413d75b1e5523a\transformed\emoji2-1.4.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\78873108ed9f7a79f7ea9cf0ab43c13e\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\6bfae0be1331a306b1902d4b1e30af90\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\995367c89e57199578c4009314d072fb\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\a0c86ad4509fce9bf68b9cf4c341e8e6\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\78bd5d4b4da3426ccc267f271860e2d4\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\fae6d3316576a9c40ee912eb530b0b4b\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\821eb62343f2a26e41eb84e1f621cc27\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\f7a521953122cf39c2d0e077a0f833cb\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e602626341c498e7517886d252ccaefb\transformed\lifecycle-runtime-compose-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\886d5bac1c7e8ad4488b408b15d3bca7\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\a00432ffea99db30eebfadde63362fd3\transformed\lifecycle-viewmodel-compose-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\8ecf8f43e46a27964a14603fdabbfc47\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\0f7f9a1494f20a131528b49c8ec865aa\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\32fbfa1eb0e6935cef656adbc4a086bc\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\aa9dbbbffa9ce411a853cc994bc48256\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\5103a3519f41ddae1e9d819f7a509562\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\8d27561c6fdc45d04e2166fe85f222ae\transformed\room-runtime-2.6.1\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\c2855e1e65624c445536215bdc018ee7\transformed\room-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\332c3a9cb15f3e71cfd5cbcc88e55f50\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\b2c263d297815c62deefbd1e5efcc374\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\d7289b76e77b817c24ee32f88bb89254\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e2b853193ddc28dde0be3b57941751ea\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\4c5507476e19ec72df45c00b152b1c36\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\dd6487def051c6e07f0125fff60901d1\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\b064514b5596d784b0c0122581ff04ea\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\50c5850cbcc58fe82f9b7fdf45661773\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\857d75289d143ded7af11fb03745e3c2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\b0c460250e317f1388442416e6bb2841\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:5:5-25:19
+INJECTED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\721e580b87521539cf5fe8e206633246\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\721e580b87521539cf5fe8e206633246\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e1d6cbccf8d2fda2e4a8ce32915ed934\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e1d6cbccf8d2fda2e4a8ce32915ed934\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\83ce49d06b1cf1702e413d75b1e5523a\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\83ce49d06b1cf1702e413d75b1e5523a\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\78873108ed9f7a79f7ea9cf0ab43c13e\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\78873108ed9f7a79f7ea9cf0ab43c13e\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\32fbfa1eb0e6935cef656adbc4a086bc\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\32fbfa1eb0e6935cef656adbc4a086bc\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\8d27561c6fdc45d04e2166fe85f222ae\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\8d27561c6fdc45d04e2166fe85f222ae\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\50c5850cbcc58fe82f9b7fdf45661773\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\50c5850cbcc58fe82f9b7fdf45661773\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\857d75289d143ded7af11fb03745e3c2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\857d75289d143ded7af11fb03745e3c2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\32fbfa1eb0e6935cef656adbc4a086bc\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:9:9-54
+	tools:targetApi
+		ADDED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:13:9-29
+	android:icon
+		ADDED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:12:9-48
+	android:name
+		ADDED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:6:9-38
+activity#com.madhumarga.app.MainActivity
+ADDED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:exported
+		ADDED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:17:13-36
+	android:theme
+		ADDED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:18:13-52
+	android:name
+		ADDED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-common:2.7.5] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\5094737fb1d718c98370f7c012ebd9c9\transformed\navigation-common-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.5] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\5094737fb1d718c98370f7c012ebd9c9\transformed\navigation-common-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.5] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\fa37f950ba2bcdceee8e18a47e247e14\transformed\navigation-runtime-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.5] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\fa37f950ba2bcdceee8e18a47e247e14\transformed\navigation-runtime-2.7.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.5] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\46d58badef23f29b82a81bd31b5e9e76\transformed\navigation-common-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.5] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\46d58badef23f29b82a81bd31b5e9e76\transformed\navigation-common-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.5] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\062b341f00e9a5500aafe4267d2d23bd\transformed\navigation-runtime-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.5] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\062b341f00e9a5500aafe4267d2d23bd\transformed\navigation-runtime-ktx-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.5] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\17f7dec4ec46fd10c2c0270a387a2f75\transformed\navigation-compose-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.5] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\17f7dec4ec46fd10c2c0270a387a2f75\transformed\navigation-compose-2.7.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3:1.1.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\28eed76843185e5954ff9b0a2d56db57\transformed\material3-1.1.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\28eed76843185e5954ff9b0a2d56db57\transformed\material3-1.1.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\b841646d6ea72ba34974868cb32e95af\transformed\activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\b841646d6ea72ba34974868cb32e95af\transformed\activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\6bdfe2ba06dadb2d8b20b0574e9d04da\transformed\activity-ktx-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\6bdfe2ba06dadb2d8b20b0574e9d04da\transformed\activity-ktx-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\362a227b3618434bf08c1a22d045a0d0\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\362a227b3618434bf08c1a22d045a0d0\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\2f59a9477906ee877028e45137c9216a\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\2f59a9477906ee877028e45137c9216a\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\c74f463f75b5c1dbb90448923a6217b8\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\c74f463f75b5c1dbb90448923a6217b8\transformed\material-icons-extended-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\b23c41bd0356754ce3342b7fb8e5c258\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\b23c41bd0356754ce3342b7fb8e5c258\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\3e9afbcc129263c8454773ece713ebc9\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\3e9afbcc129263c8454773ece713ebc9\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\114cefb01240552b828219f51b1dbed5\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\114cefb01240552b828219f51b1dbed5\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\59c8658f14cd983e32a5cd4d6f6f39a9\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\59c8658f14cd983e32a5cd4d6f6f39a9\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\01df8b98d2926c00628284f62023c580\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\01df8b98d2926c00628284f62023c580\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\7082ab12bdf6395ddd508e67b8ee9ae0\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\7082ab12bdf6395ddd508e67b8ee9ae0\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\7b42da5cddc13cce8cfc6d8c1b67f923\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\7b42da5cddc13cce8cfc6d8c1b67f923\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\68bb301bd8e2fd3fa8355fbc0f001e14\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\68bb301bd8e2fd3fa8355fbc0f001e14\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\0ed356a95786d44fa48fb85119beca03\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\0ed356a95786d44fa48fb85119beca03\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\7c1ba1725cd82b35e4e9a9a60e389b21\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\7c1ba1725cd82b35e4e9a9a60e389b21\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\8b300ce275dedd77ccea9b5afc7db6ca\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\8b300ce275dedd77ccea9b5afc7db6ca\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\eafa28917058b4ab417220005c8812bb\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\eafa28917058b4ab417220005c8812bb\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\721e580b87521539cf5fe8e206633246\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\721e580b87521539cf5fe8e206633246\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e1d6cbccf8d2fda2e4a8ce32915ed934\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e1d6cbccf8d2fda2e4a8ce32915ed934\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.8.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\a621eb4c39aa4043f44e0931ddcfcd4b\transformed\activity-compose-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\a621eb4c39aa4043f44e0931ddcfcd4b\transformed\activity-compose-1.8.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\83ce49d06b1cf1702e413d75b1e5523a\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\83ce49d06b1cf1702e413d75b1e5523a\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\78873108ed9f7a79f7ea9cf0ab43c13e\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\78873108ed9f7a79f7ea9cf0ab43c13e\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\6bfae0be1331a306b1902d4b1e30af90\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\6bfae0be1331a306b1902d4b1e30af90\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\995367c89e57199578c4009314d072fb\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\995367c89e57199578c4009314d072fb\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\a0c86ad4509fce9bf68b9cf4c341e8e6\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\a0c86ad4509fce9bf68b9cf4c341e8e6\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\78bd5d4b4da3426ccc267f271860e2d4\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\78bd5d4b4da3426ccc267f271860e2d4\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\fae6d3316576a9c40ee912eb530b0b4b\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\fae6d3316576a9c40ee912eb530b0b4b\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\821eb62343f2a26e41eb84e1f621cc27\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\821eb62343f2a26e41eb84e1f621cc27\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\f7a521953122cf39c2d0e077a0f833cb\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\f7a521953122cf39c2d0e077a0f833cb\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e602626341c498e7517886d252ccaefb\transformed\lifecycle-runtime-compose-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e602626341c498e7517886d252ccaefb\transformed\lifecycle-runtime-compose-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\886d5bac1c7e8ad4488b408b15d3bca7\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\886d5bac1c7e8ad4488b408b15d3bca7\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\a00432ffea99db30eebfadde63362fd3\transformed\lifecycle-viewmodel-compose-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\a00432ffea99db30eebfadde63362fd3\transformed\lifecycle-viewmodel-compose-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\8ecf8f43e46a27964a14603fdabbfc47\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\8ecf8f43e46a27964a14603fdabbfc47\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\0f7f9a1494f20a131528b49c8ec865aa\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\0f7f9a1494f20a131528b49c8ec865aa\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\32fbfa1eb0e6935cef656adbc4a086bc\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\32fbfa1eb0e6935cef656adbc4a086bc\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\aa9dbbbffa9ce411a853cc994bc48256\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\aa9dbbbffa9ce411a853cc994bc48256\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\5103a3519f41ddae1e9d819f7a509562\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\5103a3519f41ddae1e9d819f7a509562\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\8d27561c6fdc45d04e2166fe85f222ae\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\8d27561c6fdc45d04e2166fe85f222ae\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\c2855e1e65624c445536215bdc018ee7\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\c2855e1e65624c445536215bdc018ee7\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\332c3a9cb15f3e71cfd5cbcc88e55f50\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\332c3a9cb15f3e71cfd5cbcc88e55f50\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\b2c263d297815c62deefbd1e5efcc374\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\b2c263d297815c62deefbd1e5efcc374\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\d7289b76e77b817c24ee32f88bb89254\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\d7289b76e77b817c24ee32f88bb89254\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e2b853193ddc28dde0be3b57941751ea\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e2b853193ddc28dde0be3b57941751ea\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\4c5507476e19ec72df45c00b152b1c36\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\4c5507476e19ec72df45c00b152b1c36\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\dd6487def051c6e07f0125fff60901d1\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\dd6487def051c6e07f0125fff60901d1\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\b064514b5596d784b0c0122581ff04ea\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\b064514b5596d784b0c0122581ff04ea\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\50c5850cbcc58fe82f9b7fdf45661773\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\50c5850cbcc58fe82f9b7fdf45661773\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\857d75289d143ded7af11fb03745e3c2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\857d75289d143ded7af11fb03745e3c2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\b0c460250e317f1388442416e6bb2841\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\b0c460250e317f1388442416e6bb2841\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\SWARNIM\AndroidStudioProjects\Madhu Marga\app\src\main\AndroidManifest.xml
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\721e580b87521539cf5fe8e206633246\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\721e580b87521539cf5fe8e206633246\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\721e580b87521539cf5fe8e206633246\transformed\ui-test-manifest-1.5.4\AndroidManifest.xml:24:13-63
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e1d6cbccf8d2fda2e4a8ce32915ed934\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e1d6cbccf8d2fda2e4a8ce32915ed934\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e1d6cbccf8d2fda2e4a8ce32915ed934\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\83ce49d06b1cf1702e413d75b1e5523a\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\78873108ed9f7a79f7ea9cf0ab43c13e\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\78873108ed9f7a79f7ea9cf0ab43c13e\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\857d75289d143ded7af11fb03745e3c2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\857d75289d143ded7af11fb03745e3c2\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\83ce49d06b1cf1702e413d75b1e5523a\transformed\emoji2-1.4.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\83ce49d06b1cf1702e413d75b1e5523a\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\83ce49d06b1cf1702e413d75b1e5523a\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\83ce49d06b1cf1702e413d75b1e5523a\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\83ce49d06b1cf1702e413d75b1e5523a\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\83ce49d06b1cf1702e413d75b1e5523a\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\83ce49d06b1cf1702e413d75b1e5523a\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\78873108ed9f7a79f7ea9cf0ab43c13e\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\78873108ed9f7a79f7ea9cf0ab43c13e\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\78873108ed9f7a79f7ea9cf0ab43c13e\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\32fbfa1eb0e6935cef656adbc4a086bc\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\32fbfa1eb0e6935cef656adbc4a086bc\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\32fbfa1eb0e6935cef656adbc4a086bc\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.madhumarga.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\32fbfa1eb0e6935cef656adbc4a086bc\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\32fbfa1eb0e6935cef656adbc4a086bc\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\32fbfa1eb0e6935cef656adbc4a086bc\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\32fbfa1eb0e6935cef656adbc4a086bc\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\32fbfa1eb0e6935cef656adbc4a086bc\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.madhumarga.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\32fbfa1eb0e6935cef656adbc4a086bc\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\32fbfa1eb0e6935cef656adbc4a086bc\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\8d27561c6fdc45d04e2166fe85f222ae\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\8d27561c6fdc45d04e2166fe85f222ae\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\8d27561c6fdc45d04e2166fe85f222ae\transformed\room-runtime-2.6.1\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\8d27561c6fdc45d04e2166fe85f222ae\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\8d27561c6fdc45d04e2166fe85f222ae\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\SWARNIM\.gradle\caches\8.13\transforms\e64b072a6172922922e578dbe4339b6f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
